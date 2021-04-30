@@ -13,11 +13,9 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-<<<<<<< HEAD
+
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
-=======
->>>>>>> parent of 7a53eaa... Updates
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -40,8 +38,12 @@
       "last 1 firefox version",
       "last 1 safari version"
 <<<<<<< HEAD
+<<<<<<< HEAD
     ],
     "homepage": "https://myusername.github.io/my-app"
+=======
+    ]
+>>>>>>> parent of 7a53eaa... Updates
 =======
     ]
 >>>>>>> parent of 7a53eaa... Updates
