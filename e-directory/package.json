@@ -33,6 +33,19 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    ],
+    "homepage": "https://myusername.github.io/my-app"
+=======
     ]
+>>>>>>> parent of 7a53eaa... Updates
+=======
+    ]
+>>>>>>> parent of 7a53eaa... Updates
+=======
+    ]
+>>>>>>> parent of dd6d879... updated package.json
   }
 }
