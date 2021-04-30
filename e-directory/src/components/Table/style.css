@@ -1,0 +1,9 @@
+table{
+    background-color:black;
+    color: white;
+}
+
+thead{
+    font-size: larger;
+    font-style: bold;
+}
